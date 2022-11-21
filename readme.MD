@@ -57,19 +57,20 @@ CONNECTION_STRING=MONGODB_CONNECTION_STRING
 ```/forecast```
 
 
-Get Forecast with minimal data for each 3 hours from the next 5 days from Salvador-BA Brazil
+Get Forecast with minimal data for each 3 hours from the next 5 days from Salvador-BA Brazil__
 ```/forecast/minimal```
 
 
-Get Forecast for each 3 hours from the next 5 days from the specified latitude and longitude
+Get Forecast for each 3 hours from the next 5 days from the specified latitude and longitude__
 ```/forecast/<lat>/<lon>```
 
 
-Get Forecast with minimal data for each 3 hours from the next 5 days from the specified latitude and longitude
+Get Forecast with minimal data for each 3 hours from the next 5 days from the specified latitude and longitude__
+
 ```/forecast/minimal/<lat>/<lon>```
 
-Get previous requests made with full data
+Get previous requests made with full data__
 ```/consults ```
 
-Get previous request made with minimal data
+Get previous request made with minimal data__
 ```/consults/minimal```
